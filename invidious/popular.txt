@@ -19,9 +19,6 @@ https://inv.pistasjis.net
 https://inv.riverside.rocks
 https://inv.zzls.xyz
 https://inv.in.projectsegfau.lt
-https://inv.bp.projectsegfau.lt
-https://inv.eu.projectsegfau.lt
-https://invidious.projectsegfau.lt
 https://invidious.snopyta.org
 https://invidious.io.lol
 https://invidious.site
@@ -33,4 +30,3 @@ https://invidious.epicsite.xyz
 https://invidious.ethibox.fr
 https://invidious.f5.si
 https://invidious.nikkosphere.com
-https://invidious.lunivers.trade
