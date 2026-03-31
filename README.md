@@ -1,73 +1,61 @@
-# License
-This project is licensed under the Wista API License V1.
-Commercial use is strictly prohibited.
+# Wista API
 
 ![License](https://img.shields.io/badge/License-Wista%20API%20License%20V1-blue)
 ![Non-Commercial](https://img.shields.io/badge/Use-Non--Commercial-red)
 ![Source Required](https://img.shields.io/badge/Source-Required-brightgreen)
 
-## Wista Api Lisence V1
+---
 
-Copyright (c) 2026 woolisbest
+## 📜 License (English)
 
-### 1. Permission
+This project is licensed under the **Wista API License V1**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, modify, and redistribute the Software under the following conditions.
+### Summary
 
-### 2. Non-Commercial Use and Revenue Restrictions
+* ❌ Commercial use is strictly prohibited
+* 📺 Use on ad-supported platforms is allowed (with restrictions)
+* 🔓 Full source code disclosure is required when distributing or modifying
+* 📦 Redistribution is allowed under the same license
+* 👤 Credit to **woolisbest** is required (README + in-app + contributor)
+* 🚫 No additional restrictions may be applied
 
-Commercial use of the Software is strictly prohibited.
+---
 
-However, use of the Software on advertisement-supported platforms (such as websites displaying ads) is permitted, provided that:
+## 📜 ライセンス（日本語）
 
-* The Software itself is not sold
-* No direct revenue is generated specifically from the Software
-* The Software is not part of a paid product or service
+このプロジェクトは **Wista API License V1** のもとで公開されています。
 
-Any activity intended to directly generate revenue from the Software is prohibited.
+### 概要
 
-### 3. License Notice Requirement
+* ❌ 商用利用は禁止
+* 📺 広告付きサイトでの利用は条件付きで許可
+* 🔓 改変・再配布時はソースコードの完全公開が必要
+* 📦 再配布は同じライセンスのもとで許可
+* 👤 「woolisbest」のクレジット表記が必須（README・アプリ内・貢献者）
+* 🚫 追加の制限を課すことは禁止
 
-Any redistribution of the Software, whether original or modified, must include this license
-and clearly state that the Software is licensed under this license.
+---
 
-### 4. Copyleft / Source Code Disclosure
+## ⚠️ Important Notes / 注意事項
 
-If you modify or redistribute the Software, you MUST:
+### English
 
-* Make the complete source code publicly available
-* Include all files necessary to build, install, and run the Software
-* Publish the source code on a public repository such as GitHub or GitLab
-* License the modified Software under this same license
+* The software is provided "AS IS", without warranty of any kind
+* The author is not responsible for any damages or data loss
 
-### 5. Redistribution
+### 日本語
 
-Redistribution is permitted only if all conditions of this license are met.
+* 本ソフトウェアは「現状のまま」提供され、いかなる保証もありません
+* 使用による損害やデータ損失について作者は一切責任を負いません
 
-### 6. Attribution Requirement
+---
 
-You MUST:
+## 📂 Full License
 
-* Include credit to "woolisbest" in the README file
-* Include visible credit within the application (if applicable)
-* List "woolisbest" as one of the contributors
+See the [LICENSE](./LICENSE) file for full details.
 
-### 7. No Additional Restrictions
+---
 
-You may NOT impose any additional restrictions on recipients beyond those defined in this license.
+## 👤 Author
 
-### 8. Termination
-
-Any violation of this license will result in the immediate termination of the rights granted under this license.
-
-### 9. No Warranty
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-
-### 10. Limitation of Liability
-
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
-INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR OTHER ISSUES ARISING
-FROM THE USE OF THE SOFTWARE.
+* woolisbest
